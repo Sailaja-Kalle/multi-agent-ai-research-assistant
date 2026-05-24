@@ -356,8 +356,15 @@ Open browser at: **http://localhost:8501**
 
 ## 🚀 Live Demo
 
-👉 **Try it here:** [https://huggingface.co/spaces/Sailaja0031/multi-agent-research-assistant](https://huggingface.co/spaces/Sailaja0031/multi-agent-research-assistant)
+## 🚀 Live Demo
 
+| Platform | Link |
+|---|---|
+| 🤗 Hugging Face | [Open App](https://huggingface.co/spaces/Sailaja0031/multi-agent-research-assistant) |
+| 🎈 Streamlit Cloud | [Open App](https://multi-agent-ai-research.streamlit.app) |
+| 🚀 Render | [Open App](https://multi-agent-ai-research-assistant-qsx9.onrender.com) |
+
+> No installation needed — just open and use for free!
 > No installation needed — just open and use for free!
 
 ## 👩‍💻 Built By
