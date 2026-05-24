@@ -1,3 +1,14 @@
+---
+title: Multi Agent Research Assistant
+emoji: 🔬
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
+
 # 🔬 Multi-Agent AI Research Assistant
 
 An intelligent AI-powered research assistant that automatically searches the web, evaluates information quality, and writes professional research reports — completely FREE and fast!
