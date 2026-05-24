@@ -354,6 +354,12 @@ Open browser at: **http://localhost:8501**
 
 ---
 
+## 🚀 Live Demo
+
+👉 **Try it here:** [https://huggingface.co/spaces/Sailaja0031/multi-agent-research-assistant](https://huggingface.co/spaces/Sailaja0031/multi-agent-research-assistant)
+
+> No installation needed — just open and use for free!
+
 ## 👩‍💻 Built By
 
 **Sailaja Kalle** — AI Engineer
